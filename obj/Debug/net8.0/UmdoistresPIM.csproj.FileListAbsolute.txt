@@ -1,0 +1,14 @@
+c:\Users\user\Documents\Programacao\UmdoistresPIM\bin\Debug\net8.0\UmdoistresPIM.exe
+C:\Users\user\Documents\Programacao\UmdoistresPIM\bin\Debug\net8.0\UmdoistresPIM.deps.json
+C:\Users\user\Documents\Programacao\UmdoistresPIM\bin\Debug\net8.0\UmdoistresPIM.runtimeconfig.json
+c:\Users\user\Documents\Programacao\UmdoistresPIM\bin\Debug\net8.0\UmdoistresPIM.dll
+c:\Users\user\Documents\Programacao\UmdoistresPIM\bin\Debug\net8.0\UmdoistresPIM.pdb
+c:\Users\user\Documents\Programacao\UmdoistresPIM\obj\Debug\net8.0\UmdoistresPIM.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\user\Documents\Programacao\UmdoistresPIM\obj\Debug\net8.0\UmdoistresPIM.AssemblyInfoInputs.cache
+c:\Users\user\Documents\Programacao\UmdoistresPIM\obj\Debug\net8.0\UmdoistresPIM.AssemblyInfo.cs
+c:\Users\user\Documents\Programacao\UmdoistresPIM\obj\Debug\net8.0\UmdoistresPIM.csproj.CoreCompileInputs.cache
+c:\Users\user\Documents\Programacao\UmdoistresPIM\obj\Debug\net8.0\UmdoistresPIM.dll
+c:\Users\user\Documents\Programacao\UmdoistresPIM\obj\Debug\net8.0\refint\UmdoistresPIM.dll
+c:\Users\user\Documents\Programacao\UmdoistresPIM\obj\Debug\net8.0\UmdoistresPIM.pdb
+C:\Users\user\Documents\Programacao\UmdoistresPIM\obj\Debug\net8.0\UmdoistresPIM.genruntimeconfig.cache
+C:\Users\user\Documents\Programacao\UmdoistresPIM\obj\Debug\net8.0\ref\UmdoistresPIM.dll
